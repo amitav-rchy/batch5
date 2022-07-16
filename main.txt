@@ -1,0 +1,15 @@
+Git 
+Repository/Repo - Folder
+
+Starting Command
+Tracking
+Commit
+Push - Online
+
+
+Git Setup:
+1) git config --global user.name "amitav-rchy"
+2) git config --global user.email "amitav.rchy@gmail.com"
+
+
+
